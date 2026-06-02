@@ -1,8 +1,6 @@
 <h1 align="center">Welcome 👋, I'm Esmodea</h1>
 <h3 align="center">A passionate Flutter developer from the US who strives to ship well thought code to meaningful companies and organizations.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmodea&row=1&column=4" alt="esmodea" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <-- <a href="https://twitter.com/esmodea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esmodea" height="30" width="40" /></a> -->

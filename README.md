@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Esmodea</h1>
-<h3 align="center">A passionate Flutter developer from the US who strives to ship well thought code to meaningful companies and organizations.</h3>
+<h3 align="center">A passionate Flutter-Dart developer from the US who strives to ship well thought code to meaningful companies and organizations.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front-End:</h4>
